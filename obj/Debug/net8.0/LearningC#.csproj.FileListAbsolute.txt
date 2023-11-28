@@ -1,0 +1,14 @@
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.AssemblyInfoInputs.cache
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.AssemblyInfo.cs
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.csproj.CoreCompileInputs.cache
+C:\Users\Juanc\Desenvolvimento\LearningC#\bin\Debug\net8.0\LearningC#.exe
+C:\Users\Juanc\Desenvolvimento\LearningC#\bin\Debug\net8.0\LearningC#.deps.json
+C:\Users\Juanc\Desenvolvimento\LearningC#\bin\Debug\net8.0\LearningC#.runtimeconfig.json
+C:\Users\Juanc\Desenvolvimento\LearningC#\bin\Debug\net8.0\LearningC#.dll
+C:\Users\Juanc\Desenvolvimento\LearningC#\bin\Debug\net8.0\LearningC#.pdb
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.dll
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\refint\LearningC#.dll
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.pdb
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.genruntimeconfig.cache
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\ref\LearningC#.dll

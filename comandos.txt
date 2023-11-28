@@ -1,0 +1,30 @@
+abra o terminal
+dotnet new console
+dotnet run transppila nosso projeto
+dotnett --info tras as informações do nosso dotnet
+chaves significa que estou começando algo e esse algo tem que termianr
+importar modulo usigin nomedoProjeto.Models
+
+Digite um numero referente a opção que você deseja utilizar:
+sintaxe e tipos de dados chama a variavel.método
+
+camelCase
+PascalCase
+snake_case
+spinal-case
+
+converter um valor 
+
+converter um string para um inteiro chamase Cast-Casting
+int a =Convert.ToInt32."5";
+ou 
+int a = int.Parse("5")
+se adicionar uma letra da um erro no meu código
+
+a diferença entre eles é o tratamento em null em convert ele retorna 04em
+
+em Parse
+
+operador end == &&
+operador OR == ||
+operador Not == !choveu = // não choveu
