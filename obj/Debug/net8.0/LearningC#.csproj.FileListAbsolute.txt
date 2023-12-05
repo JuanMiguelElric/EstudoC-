@@ -12,3 +12,4 @@ C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\refint\LearningC#.dll
 C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.pdb
 C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.genruntimeconfig.cache
 C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\ref\LearningC#.dll
+C:\Users\Juanc\Desenvolvimento\LearningC#\obj\Debug\net8.0\LearningC#.sourcelink.json

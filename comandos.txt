@@ -28,3 +28,19 @@ em Parse
 operador end == &&
 operador OR == ||
 operador Not == !choveu = // não choveu
+
+FOREACH, percorre um array sem precisar de um laço de repitação
+Exemplo foreach(int valor in arrayInteiro){
+
+}
+
+criando uma lista
+List<string> listaString = new List<string>();
+listaString.Add("SP");
+
+usa um contador
+for( in contador; contador <listaString.count; contador++){
+    Console.Writeline($"Posição N° {contador} {listaString[contador]})
+}
+
+propiedade apresenta um valor e o protege
